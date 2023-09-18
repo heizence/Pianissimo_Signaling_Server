@@ -7,8 +7,10 @@
 
 #### 본 Repository 는 모바일 앱에서 라이브 방송 관련 요청을 처리하기 위한 Signaling 서버에 해당됨.
 
-테스트를 위한 웹 html 코드도 포함.
+WebRTC 를 이용하여 라이브 스트리밍 기술 구현. 기능 테스트를 위한 웹 html 코드도 포함.
 
-웹 <-> Android 앱, 웹 <-> 웹, Android 기기 <-> Android 기기 
+- 웹 <-> Android 앱
+- 웹 <-> 웹
+- Android 기기 <-> Android 기기 
 
-모두 연결 가능.
+3가지 경우 모두 연결 가능.
